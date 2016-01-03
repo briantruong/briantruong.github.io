@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Brian Truong
 locale:           en_US
 url:
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Brian Truong
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Average ones compete with others. Great ones compete with themselves."
   email:
   disqus-shortname:
   twitter: #username
