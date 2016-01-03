@@ -2,7 +2,7 @@
 
 title:            Brian Truong
 locale:           en_US
-url:
+url: 
 
 
 # Jekyll configuration
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Brian Truong
   avatar: brian-photo.jpg
-  bio: "Average ones compete with others. Great ones compete with themselves."
+  bio: "UC Berkeley 2015 - Computer Science - LA/Bay - 626 - Internet Explorer"
   email:
   disqus-shortname:
   twitter: briantruong
