@@ -27,11 +27,11 @@ kramdown:
 # Site owner
 owner:
   name: Brian Truong
-  avatar: bio-photo.jpg
+  avatar: brian-photo.jpg
   bio: "Average ones compete with others. Great ones compete with themselves."
   email:
   disqus-shortname:
-  twitter: briantruong?
+  twitter: briantruong
   facebook: #username
   google:
     plus: #username
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: justphofun
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
@@ -52,7 +52,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: brian-truong-2
   weibo: #username
   flickr: #username
   codepen: #username
