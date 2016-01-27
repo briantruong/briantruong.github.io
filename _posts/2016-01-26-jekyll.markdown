@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Built Using Jekyll"
-excerpt: "I chose [Jekyll](https://jekyllrb.com/) because it works seamlessly with github, its flexible, and it gives you a responsive site right out of the box."
+excerpt: "I chose Jekyll because it works seamlessly with github, its flexible, and it gives you a responsive site right out of the box."
 modified:
 tags: [jekyll]
 ---
