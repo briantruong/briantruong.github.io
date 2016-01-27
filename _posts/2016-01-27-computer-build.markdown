@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Upgraded My Desktop"
+excerpt: "After 3.5 years of neglect, my poor desktop computer was due for an upgrade."
+modified:
+tags: []
+---
+
+I'm new to the blogging scene, in fact I can count on my fingers the number of blog posts i've made in my lifetime. However, I do have experience creating websites and programming so I thought, why not give Jekyll a try? Jekyll is a ruby framework that transforms your plain text into static websites and blogs. I already picked up Ruby from my university courses so I figured this would be a great way to blog and satisfy my itch to code.
+
+<figure>
+	<img src="https://jekyll.github.io/brand/jekyll-logo-light-solid.png">
+</figure>
+
+I chose [Jekyll](https://jekyllrb.com/) because it works seamlessly with github, its flexible, and it gives you a responsive site right out of the box. 
+
+> "Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here."
+
+The process is simple, you write your posts & pages in HTML & CSS and a static site come out ready to be deployed. If you're looking to start up you own website but don't want to dish out the ~$14.99/month in hosting fees, Jekyll sites can be hosted on GitHub pages for free.
+
+If you're interested, heres a tutorial to help you get started: [Using Jekyll with GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/)
