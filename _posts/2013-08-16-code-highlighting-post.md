@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syntax Highlighting Post
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+excerpt: "Demo post displaying the various ways of highlighting code in Markdosadfdswn."
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true

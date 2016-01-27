@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Framework: Jekyll"
-excerpt: "I chose [Jekyll](https://jekyllrb.com/) because it works seamlessly with github, its flexible, and it gives you a responsive site right out of the box. "
+title: "Built Using Jekyll"
+excerpt: "I chose [Jekyll](https://jekyllrb.com/) because it works seamlessly with github, its flexible, and it gives you a responsive site right out of the box."
 modified:
 categories: 
 excerpt:
@@ -16,8 +16,8 @@ I'm new to the blogging scene, in fact I can count on my fingers the number of b
 
 I chose [Jekyll](https://jekyllrb.com/) because it works seamlessly with github, its flexible, and it gives you a responsive site right out of the box. 
 
-> [Jekyll] Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
+> "Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here."
 
 The process is simple, you write your posts & pages in HTML & CSS and a static site come out ready to be deployed. If you're looking to start up you own website but don't want to dish out the ~$14.99/month in hosting fees, Jekyll sites can be hosted on GitHub pages for free.
 
-[Using Jekyll with GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/)
+If you're interested, heres a tutorial to help you get started: [Using Jekyll with GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/)
