@@ -3,8 +3,6 @@ layout: post
 title: "Graduation & Future Plans"
 excerpt: "Go Bears! After 3.5 years I've completed my Computer Science degree from UC Berkeley. I just want to say that i'm thankful for all of my friends and the memories we've shared during my time at Cal. I'll see you guys in the Spring for the graduation ceremony!"
 modified:
-categories: 
-excerpt:
 tags: []
 ---
 
